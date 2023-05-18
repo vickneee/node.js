@@ -54,4 +54,11 @@ Open [http://localhost:3000](http://localhost:3000) to view result in your brows
 
 <img width="485" alt="Screenshot 2023-05-19 at 0 14 53" src="https://github.com/vickneee/node.js/assets/93821265/bca1bb99-788b-42b5-9142-0b008a390803">
 
+## create-table
+
+In the project directory, you can run:
+
+	node CreateTable.js
+
+Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
