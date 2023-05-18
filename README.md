@@ -43,7 +43,7 @@ In the project directory, you can run:
 
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
-<img width="704" alt="Screenshot 2023-05-19 at 0 30 19" src="https://github.com/vickneee/node.js/assets/93821265/6a5aceb8-93b6-4e30-bf3d-c92bbd0b0601">
+<img width="1602" alt="Screenshot 2023-05-19 at 0 42 02" src="https://github.com/vickneee/node.js/assets/93821265/fe88bd6d-31fc-4316-b812-6e1b84f157e0">
 
 ## server-with-routing
 
