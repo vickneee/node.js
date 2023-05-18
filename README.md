@@ -43,7 +43,7 @@ In the project directory, you can run:
 
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
-<img width="703" alt="Screenshot 2023-05-19 at 0 27 33" src="https://github.com/vickneee/node.js/assets/93821265/737773da-ac03-4836-96b0-d2f4fa6be0b6">
+<img width="703" alt="Screenshot 2023-05-19 at 0 27 33" src="https://github.com/vickneee/node.js/assets/93821265/ca0333e2-33bb-407b-990c-1719094fed28">
 ## server-with-routing
 
 Install SQLite portable version:
