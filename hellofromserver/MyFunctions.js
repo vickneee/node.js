@@ -10,8 +10,3 @@ var html =`<!DOCTYPE html>
 </html>
 `
 exports.html = html
-
-
-
-
-
