@@ -15,7 +15,7 @@ let NoDataFound = false;
 let Kunta = '';
 let Asukas = '';
 const hostname = 'localhost';
-const port = 8500;
+const port = 3000;
 function reqListener(req, res) {
 	const url = req.url;
 	const method = req.method;
