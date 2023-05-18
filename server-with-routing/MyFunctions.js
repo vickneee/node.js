@@ -1,8 +1,8 @@
 function Form (Kunta) {
-	var f = `<!DOCTYPE html>
-	<html> 
+	const f = `<!DOCTYPE html>
+	<html lang="en"> 
 	<style> table th, td {border: 1px solid black;} </style>
-	<head><meta charset="UTF-8"></head>
+	<head><meta charset="UTF-8"><title>Kunta</title></head>
 	<body>
 	<table>
 	<form action="/Query" method="POST">
@@ -12,17 +12,17 @@ function Form (Kunta) {
 	</tr>
 	</form>
 	</table></body>
-	</html>`
+	</html>`;
 	return (f)
 }
 exports.Form = Form
 
 function Result (Kunta, Asukas) {
-	var r = 
-	`<!DOCTYPE html>
-	<html>
+	const r =
+		`<!DOCTYPE html>
+	<html lang="en">
 	<style> table th, td {border: 1px solid black;} </style>
-	<head><meta charset="UTF-8"></head>
+	<head><meta charset="UTF-8"><title>Kunta Asukas</title></head>
 	<body>
 	<table>
 	<form action="/Query" method="POST">
@@ -41,7 +41,7 @@ function Result (Kunta, Asukas) {
 	<td>${Kunta}</td> <td>${Asukas}</td>
 	</tr>
 	</table>
-	</html>`
+	</html>`;
 	return (r)
 }	
 exports.Result = Result
