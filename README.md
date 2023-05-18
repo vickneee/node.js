@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view result in your brows
 
 ## server-with-routing
 
-Install SQLite:
+Install SQLite portable version:
 
 [https://github.com/pawelsalawa/sqlitestudio/releases](https://github.com/pawelsalawa/sqlitestudio/releases)
 
