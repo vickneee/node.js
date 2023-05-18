@@ -3,7 +3,7 @@ const sqlite3 = require('sqlite3').verbose();
 sqlite3.OPEN_READWRITE = undefined;
 const qs = require('querystring');
 const mf = require('./MyFunctions.js');
-const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db';
+const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/GitHub-Projects/node.js/create-table/MyFunctions.js';
 const db = new sqlite3.Database(database, sqlite3.OPEN_READWRITE, (err) => {
 	if (err) {
 		console.error(err.message);
