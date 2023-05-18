@@ -51,8 +51,7 @@ Install SQLite portable version:
 
 [https://github.com/pawelsalawa/sqlitestudio/releases](https://github.com/pawelsalawa/sqlitestudio/releases)
 
-Change const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db'
-according to the path of your database.
+Change const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/GitHub-Projects/node.js/create-table/MyFunctions.js' according to the path of your database.
 
 In the project directory, you can run:
 
