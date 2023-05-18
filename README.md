@@ -35,6 +35,16 @@ In the project directory, you can run:
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
 
+## create-table
+
+In the project directory, you can run:
+
+	node CreateTable.js
+
+Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
+
+<img width="1602" alt="Screenshot 2023-05-19 at 0 42 02" src="https://github.com/vickneee/node.js/assets/93821265/fe88bd6d-31fc-4316-b812-6e1b84f157e0">
+
 ## server-with-routing
 
 Install SQLite portable version:
@@ -50,15 +60,6 @@ In the project directory, you can run:
 
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
-<img width="508" alt="Screenshot 2023-05-19 at 0 14 32" src="https://github.com/vickneee/node.js/assets/93821265/0cea6281-c99b-48a2-a08d-8466a0e6d121">
+<img width="1182" alt="Screenshot 2023-05-19 at 0 38 19" src="https://github.com/vickneee/node.js/assets/93821265/c30cb0a4-02ce-4447-aafe-adec7024c16d">
 
-<img width="485" alt="Screenshot 2023-05-19 at 0 14 53" src="https://github.com/vickneee/node.js/assets/93821265/bca1bb99-788b-42b5-9142-0b008a390803">
-
-## create-table
-
-In the project directory, you can run:
-
-	node CreateTable.js
-
-Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
-
+<img width="1184" alt="Screenshot 2023-05-19 at 0 38 58" src="https://github.com/vickneee/node.js/assets/93821265/8cbd78da-fac8-4d1e-9326-2c03a6c0b99c">
