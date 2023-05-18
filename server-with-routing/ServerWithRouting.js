@@ -1,18 +1,18 @@
 const http = require('http')
 const sqlite3 = require('sqlite3').verbose();
-var qs = require('querystring');
-var mf = require('./MyFunctions.js');
-var database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db'
-var db = new sqlite3.Database(database, sqlite3.OPEN_READWRITE, (err) => {
+const qs = require('querystring');
+const mf = require('./MyFunctions.js');
+const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db';
+const db = new sqlite3.Database(database, sqlite3.OPEN_READWRITE, (err) => {
 	if (err) {
 		console.error(err.message);
 	}
 	console.log('Connected.')
 });
-var sql = 'select Kunta, Asukas from Kunta where Kunta = ?';
-var NoDataFound = false;
-var Kunta = '';
-var Asukas = '';
+const sql = 'select Kunta, Asukas from Kunta where Kunta = ?';
+let NoDataFound = false;
+let Kunta = '';
+let Asukas = '';
 const hostname = 'localhost';
 const port = 8500;
 function reqListener(req, res) {
