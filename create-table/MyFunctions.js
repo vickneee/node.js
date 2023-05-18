@@ -3,19 +3,19 @@ function CreateTable(r) {
 	const style =
 		`<style>
 #table {border-collapse: collapse;width: 100%;}
-#th, #td {text-align: left;padding: 8px;border: 1px solid #dddddd;}
-#tr:nth-child(even){background-color: #D6EEEE;}
+.th, .td {text-align: left;padding: 8px;border: 1px solid #dddddd;}
+.tr:nth-child(even){background-color: #edeed6;}
 </style>`;
 	let tab = '\t'
 	let eol = '\n'
 	let firstPart = `<html lang="en">${eol}<table id="table">`
 	let lastPart = `${eol}</table>${eol}</html>`
-	let trs = `${eol}<tr id="tr">${eol}${tab}`
+	let trs = `${eol}<tr class="tr">${eol}${tab}`
 
 	let tre = `${eol}</tr>`
-	let ths = '<th id="th">'
+	let ths = '<th class="th">'
 	let the = '</th>'
-	let tds = '<td id="td">'
+	let tds = '<td class="td">'
 	let tde = '</td>'
 	let header = ""
 	let Keys = Object.keys(r[0]);
