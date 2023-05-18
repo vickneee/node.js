@@ -1,5 +1,6 @@
 const http = require('http')
 const sqlite3 = require('sqlite3').verbose();
+sqlite3.OPEN_READWRITE = undefined;
 const qs = require('querystring');
 const mf = require('./MyFunctions.js');
 const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db';
@@ -24,13 +25,13 @@ function reqListener(req, res) {
 		return res.end();
 	}
 	if (url === '/Query' && method === 'POST') {
-		var body = [];
+		let body = [];
 		req.on('data', (chunk) => {
 		body.push(chunk);
 	})
 	req.on('end', () => {
 		body = Buffer.concat(body).toString();
-		var post = qs.parse(body);
+		const post = qs.parse(body);
 		Kunta = post.Kunta;
 		db.get(sql, [Kunta], (err, row) => {
 			if (err) {
@@ -39,7 +40,7 @@ function reqListener(req, res) {
 			if (row != null) {
 				NoDataFound = true;
 				Kunta = row.Kunta;
-				Asukas = row.Asukas
+				Asukas = row.Asukas;
 				console.log(Kunta + '/t' + Asukas);
 				res.write(mf.Result(Kunta, Asukas));
 				console.log(mf.Result);
