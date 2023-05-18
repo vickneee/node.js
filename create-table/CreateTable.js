@@ -2,8 +2,8 @@ const fs = require('fs');
 const mf = require('./MyFunctions');
 
 const r = [
-    { Nimi: 'Pekka', Ika: 46 },
-    { Nimi: 'Tiina', Ika: 25 },
+    { Nimi: 'Jukka', Ika: 43 },
+    { Nimi: 'Ella', Ika: 24 },
     { Nimi: 'Annika', Ika: 34 },
     { Nimi: 'Hannu', Ika: 57 }
 ];
