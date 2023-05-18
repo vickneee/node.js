@@ -1,5 +1,5 @@
-var html =`<!DOCTYPE html>
-<html>
+const html = `<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>Page Title</title>
 </head>
@@ -8,5 +8,5 @@ var html =`<!DOCTYPE html>
 <p>It is nice to code in JS & Node</p>
 </body>
 </html>
-`
+`;
 exports.html = html
