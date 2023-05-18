@@ -26,20 +26,39 @@ After that, you can run:
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
 
-## express-server-hello
+## hello-from-server
 
-In the project directory, you can install the Express using npm:
-	
-	npm install express
-	
-Install the Body-Parser using npm:
-	
-	npm install body-parser
-
-After that, you can run:
+In the project directory, you can run:
 
 	node ExpressServer.js
 
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
+
+## server-with-routing
+
+Install SQLite portable version:
+
+[https://github.com/pawelsalawa/sqlitestudio/releases](https://github.com/pawelsalawa/sqlitestudio/releases)
+
+Change const database = '/Users/victoriavavulina/Library/CloudStorage/OneDrive-Personal/Kurssit/Node/Node.db'
+according to the path of your database.
+
+In the project directory, you can run:
+
+	node ServerWithRouting.js
+
+Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
+
+<img width="508" alt="Screenshot 2023-05-19 at 0 14 32" src="https://github.com/vickneee/node.js/assets/93821265/0cea6281-c99b-48a2-a08d-8466a0e6d121">
+
+<img width="485" alt="Screenshot 2023-05-19 at 0 14 53" src="https://github.com/vickneee/node.js/assets/93821265/bca1bb99-788b-42b5-9142-0b008a390803">
+
+## create-table
+
+In the project directory, you can run:
+
+	node CreateTable.js
+
+Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
