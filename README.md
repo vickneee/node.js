@@ -41,8 +41,6 @@ In the project directory, you can run:
 
 	node CreateTable.js
 
-Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
-
 After that, you can open the Table.html file in your browser.
 
 <img width="1602" alt="Screenshot 2023-05-19 at 0 42 02" src="https://github.com/vickneee/node.js/assets/93821265/fe88bd6d-31fc-4316-b812-6e1b84f157e0">
