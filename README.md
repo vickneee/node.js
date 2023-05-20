@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view result in your brows
 
 In the project directory, you can run:
 
-	node ExpressServer.js
+	node Server.js
 
 Open [http://localhost:3000](http://localhost:3000) to view result in your browser.
 
