@@ -1,3 +1,4 @@
+"use strict";
 const http = require('http');
 const mf = require('./MyFunctions');
 const hostname = 'localhost';
