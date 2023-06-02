@@ -79,7 +79,7 @@ If needed install mysql:
 
 	npm install mysql
 	
-You will see the query and results in your browser.
+Open http://localhost:8500 to view result in your browser.
 
 <img width="1327" alt="Screenshot 2023-06-02 at 15 58 27" src="https://github.com/vickneee/node.js/assets/93821265/cf2a93b1-65f6-461c-9718-5f5b2d168f05">
 
