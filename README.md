@@ -62,3 +62,19 @@ Open [http://localhost:3000](http://localhost:3000) to view result in your brows
 <img width="1182" alt="Screenshot 2023-05-19 at 0 38 19" src="https://github.com/vickneee/node.js/assets/93821265/c30cb0a4-02ce-4447-aafe-adec7024c16d">
 
 <img width="1184" alt="Screenshot 2023-05-19 at 0 38 58" src="https://github.com/vickneee/node.js/assets/93821265/8cbd78da-fac8-4d1e-9326-2c03a6c0b99c">
+
+## execute-query
+
+In the project directory, you can run:
+
+	node ServerMySQL.js
+	
+You will see the results in your terminal.
+
+<img width="513" alt="Screenshot 2023-06-02 at 12 20 32" src="https://github.com/vickneee/node.js/assets/93821265/e659417d-ae4e-44e5-9b25-49d12b1acfb0">
+
+<img width="790" alt="Screenshot 2023-06-02 at 12 21 05" src="https://github.com/vickneee/node.js/assets/93821265/a025389b-1e9a-4a6e-9a93-05395f2335d2">
+
+<img width="519" alt="Screenshot 2023-06-02 at 12 21 48" src="https://github.com/vickneee/node.js/assets/93821265/3872e870-5cc5-4f88-b273-904188e55eed">
+
+<img width="630" alt="Screenshot 2023-06-02 at 12 22 21" src="https://github.com/vickneee/node.js/assets/93821265/dd394f30-755f-4431-a3b2-183cd5ccf61c">
