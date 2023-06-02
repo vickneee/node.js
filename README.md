@@ -81,6 +81,6 @@ If needed install mysql:
 	
 Open http://localhost:8500 to view query in your browser.
 
-<img width="1325" alt="Screenshot 2023-06-02 at 16 12 42" src="https://github.com/vickneee/node.js/assets/93821265/08f94c65-b8fc-4b23-b22a-840da927f1fd">
+<img width="1333" alt="Screenshot 2023-06-02 at 16 16 20" src="https://github.com/vickneee/node.js/assets/93821265/bdbc3fd3-f746-4e62-b606-132f4cb42b02">
 
-<img width="1331" alt="Screenshot 2023-06-02 at 16 12 59" src="https://github.com/vickneee/node.js/assets/93821265/c61cd1b2-c0b2-4ecc-8e92-a0ca5607ccfc">
+<img width="1330" alt="Screenshot 2023-06-02 at 16 16 43" src="https://github.com/vickneee/node.js/assets/93821265/722057a1-e7e9-4dfd-9846-2fb9406cffad">
