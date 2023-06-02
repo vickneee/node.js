@@ -83,4 +83,4 @@ Open http://localhost:8500 to view query in your browser.
 
 <img width="1328" alt="Screenshot 2023-06-02 at 16 20 20" src="https://github.com/vickneee/node.js/assets/93821265/908b4852-6b12-42e8-ac39-26fa4a630e80">
 
-<img width="1331" alt="Screenshot 2023-06-02 at 16 20 34" src="https://github.com/vickneee/node.js/assets/93821265/34dd1902-1567-4f86-9323-020b4bca1423">
+<img width="1332" alt="Screenshot 2023-06-02 at 16 22 14" src="https://github.com/vickneee/node.js/assets/93821265/a6f35ba8-c0e3-471c-bdbb-0626ad7cedc7">
