@@ -43,7 +43,25 @@ In the project directory, you can run:
 
 After that, you can open the Table.html file in your browser.
 
-<img width="1602" alt="Screenshot 2023-05-19 at 0 42 02" src="https://github.com/vickneee/node.js/assets/93821265/fe88bd6d-31fc-4316-b812-6e1b84f157e0">
+<img width="1327" alt="Screenshot 2023-06-02 at 16 36 43" src="https://github.com/vickneee/node.js/assets/93821265/7a3b9d29-92dc-419e-97f7-42fcd7aad3dd">
+
+## server-with-routing-mysql
+
+This query is connected to the Professor Database: https://github.com/vickneee/python/tree/main/professor-database
+
+In the project directory, you can run:
+
+	node ServerWithRoutingMySQL.js
+	
+If needed install mysql:
+
+	npm install mysql
+	
+Open http://localhost:8500 to view query in your browser.
+
+<img width="1328" alt="Screenshot 2023-06-02 at 16 20 20" src="https://github.com/vickneee/node.js/assets/93821265/908b4852-6b12-42e8-ac39-26fa4a630e80">
+
+<img width="1332" alt="Screenshot 2023-06-02 at 16 22 14" src="https://github.com/vickneee/node.js/assets/93821265/a6f35ba8-c0e3-471c-bdbb-0626ad7cedc7">
 
 ## execute-query
 
