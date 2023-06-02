@@ -43,7 +43,7 @@ In the project directory, you can run:
 
 After that, you can open the Table.html file in your browser.
 
-<img width="1602" alt="Screenshot 2023-05-19 at 0 42 02" src="https://github.com/vickneee/node.js/assets/93821265/fe88bd6d-31fc-4316-b812-6e1b84f157e0">
+<img width="1327" alt="Screenshot 2023-06-02 at 16 36 43" src="https://github.com/vickneee/node.js/assets/93821265/7a3b9d29-92dc-419e-97f7-42fcd7aad3dd">
 
 ## execute-query
 
