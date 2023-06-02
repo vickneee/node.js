@@ -79,4 +79,5 @@ You will see the results in your terminal.
 
 <img width="524" alt="Screenshot 2023-06-02 at 12 34 29" src="https://github.com/vickneee/node.js/assets/93821265/a64f61a8-8e7b-4ba7-9a40-a03e363b320e">
 
-<img width="630" alt="Screenshot 2023-06-02 at 12 22 21" src="https://github.com/vickneee/node.js/assets/93821265/dd394f30-755f-4431-a3b2-183cd5ccf61c">
+<img width="651" alt="Screenshot 2023-06-02 at 13 31 36" src="https://github.com/vickneee/node.js/assets/93821265/b404aa9f-5468-4f77-ad0d-03070cf05a75">
+
