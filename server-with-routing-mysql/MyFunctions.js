@@ -2,9 +2,9 @@ function CreateHTML(s) {
 	return `<html style="font-family: sans-serif;"  lang="en"> 
 	<body style="background: #f5f5f5; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;" >
 	<form action=/Query method="POST">
-	<button type=submit style="background: green; padding: 8px 16px; border-style: none; color: white;">Run Query</button>
+	<button type=submit style="background: green; padding: 8px 16px; border-style: none; color: white; box-shadow: 0 0 10px 1px #666; border-radius: 2px; font-size: 1.1rem;">Run Query</button>
 	<br><br>
-	<textarea id=Sql name=Sql rows=5 cols=80>${s}</textarea>
+	<textarea id=Sql name=Sql rows=5 cols=60 style="font-size: 1.1rem;">${s}</textarea>
 	</form></body></html>`
 }
 exports.CreateHTML = CreateHTML
@@ -13,10 +13,10 @@ function CreateTable(r) {
 	let table;
 	const style =
 		`<style>
-#table {border-collapse: collapse; width: 50%;}
+#table {border-collapse: collapse; width: 50%; box-shadow: 0 0 10px 1px #888;}
 #th, #td {text-align: left;padding: 8px; border: 1px solid #333333;}
 #tr:nth-child(odd) {background-color: #ffffff;}
-#tr:nth-child(even) {background-color: #aed3d3;}
+#tr:nth-child(even) {background-color: #d4f2f6;}
 </style>`;
 	const tab = '\t';
 	const eol = '\n';
