@@ -81,6 +81,6 @@ If needed install mysql:
 	
 You will see the query and results in your browser.
 
-<img width="1333" alt="Screenshot 2023-06-02 at 15 07 23" src="https://github.com/vickneee/node.js/assets/93821265/84aa6731-bab6-4995-8dae-bd7de41db1f1">
+<img width="1327" alt="Screenshot 2023-06-02 at 15 58 27" src="https://github.com/vickneee/node.js/assets/93821265/cf2a93b1-65f6-461c-9718-5f5b2d168f05">
 
-<img width="1332" alt="Screenshot 2023-06-02 at 15 07 57" src="https://github.com/vickneee/node.js/assets/93821265/69085fc1-dafc-4bd1-b81e-c0112c3e9834">
+<img width="1329" alt="Screenshot 2023-06-02 at 15 58 44" src="https://github.com/vickneee/node.js/assets/93821265/9b9c1297-56da-4485-8907-ffcf43ebcf7c">
