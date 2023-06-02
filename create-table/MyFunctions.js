@@ -2,9 +2,10 @@ function CreateTable(r) {
 	let table;
 	const style =
 		`<style>
-#table {border-collapse: collapse;width: 100%;}
-.th, .td {text-align: left;padding: 8px;border: 1px solid #dddddd;}
-.tr:nth-child(even){background-color: #edeed6;}
+body {display: flex; justify-content: center; align-items: center; height: 100vh; background: #fafafa}
+#table {border-collapse: collapse; width: 400px;}
+.th, .td {text-align: left; padding: 8px; border: 1px solid #333333;}
+.tr:nth-child(even) {background-color: #d4f2f6;}
 </style>`;
 	let tab = '\t'
 	let eol = '\n'
