@@ -65,6 +65,8 @@ Open [http://localhost:3000](http://localhost:3000) to view result in your brows
 
 ## execute-query
 
+This query is connected to the Professor Database: https://github.com/vickneee/python/tree/main/professor-database
+
 In the project directory, you can run:
 
 	node ServerMySQL.js
@@ -75,6 +77,6 @@ You will see the results in your terminal.
 
 <img width="790" alt="Screenshot 2023-06-02 at 12 21 05" src="https://github.com/vickneee/node.js/assets/93821265/a025389b-1e9a-4a6e-9a93-05395f2335d2">
 
-<img width="519" alt="Screenshot 2023-06-02 at 12 21 48" src="https://github.com/vickneee/node.js/assets/93821265/3872e870-5cc5-4f88-b273-904188e55eed">
+<img width="524" alt="Screenshot 2023-06-02 at 12 34 29" src="https://github.com/vickneee/node.js/assets/93821265/a64f61a8-8e7b-4ba7-9a40-a03e363b320e">
 
 <img width="630" alt="Screenshot 2023-06-02 at 12 22 21" src="https://github.com/vickneee/node.js/assets/93821265/dd394f30-755f-4431-a3b2-183cd5ccf61c">
