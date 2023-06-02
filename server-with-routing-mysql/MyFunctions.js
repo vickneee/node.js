@@ -1,8 +1,8 @@
 function CreateHTML(s) {
 	return `<html style="font-family: sans-serif;"  lang="en"> 
-	<body style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh;" >
-	<form action=/Query method=POST>
-	<button type=submit style="background: green; padding: 10px 20px; color: white;">Run Query</button>
+	<body style="background: #f5f5f5; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;" >
+	<form action=/Query method="POST">
+	<button type=submit style="background: green; padding: 8px 16px; border-style: none; color: white;">Run Query</button>
 	<br><br>
 	<textarea id=Sql name=Sql rows=5 cols=80>${s}</textarea>
 	</form></body></html>`
@@ -14,8 +14,9 @@ function CreateTable(r) {
 	const style =
 		`<style>
 #table {border-collapse: collapse; width: 50%;}
-#th, #td {text-align: left;padding: 8px; border: 1px solid #dddddd;}
-#tr:nth-child(even) {background-color: #D6EEEE;}
+#th, #td {text-align: left;padding: 8px; border: 1px solid #333333;}
+#tr:nth-child(odd) {background-color: #ffffff;}
+#tr:nth-child(even) {background-color: #aed3d3;}
 </style>`;
 	const tab = '\t';
 	const eol = '\n';
