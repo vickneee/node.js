@@ -59,9 +59,9 @@ If needed install mysql:
 	
 Open http://localhost:8500 to view query in your browser.
 
-<img width="1333" alt="Screenshot 2023-06-02 at 20 01 36" src="https://github.com/vickneee/node.js/assets/93821265/7fea3531-1321-4de2-89f0-ca1fa4af42df">
+<img width="1326" alt="Screenshot 2023-06-02 at 20 07 33" src="https://github.com/vickneee/node.js/assets/93821265/f4008899-cafb-4284-84ab-bc791e50dbd1">
 
-<img width="1333" alt="Screenshot 2023-06-02 at 20 00 50" src="https://github.com/vickneee/node.js/assets/93821265/f3c564d3-b48e-4be3-bbc1-3ba689c56b24">
+<img width="1328" alt="Screenshot 2023-06-02 at 20 07 55" src="https://github.com/vickneee/node.js/assets/93821265/808a63e2-b381-4f4e-8e97-b13bc4291168">
 
 ## execute-query
 
