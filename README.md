@@ -75,7 +75,7 @@ You will see the results in your terminal.
 
 <img width="513" alt="Screenshot 2023-06-02 at 12 20 32" src="https://github.com/vickneee/node.js/assets/93821265/e659417d-ae4e-44e5-9b25-49d12b1acfb0">
 
-<img width="790" alt="Screenshot 2023-06-02 at 12 21 05" src="https://github.com/vickneee/node.js/assets/93821265/a025389b-1e9a-4a6e-9a93-05395f2335d2">
+<img width="822" alt="Screenshot 2023-06-02 at 13 33 20" src="https://github.com/vickneee/node.js/assets/93821265/158d3a0e-b230-4a17-8963-8756f11831a6">
 
 <img width="524" alt="Screenshot 2023-06-02 at 12 34 29" src="https://github.com/vickneee/node.js/assets/93821265/a64f61a8-8e7b-4ba7-9a40-a03e363b320e">
 
