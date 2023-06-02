@@ -75,7 +75,7 @@ If needed install mysql:
 
 	npm install mysql
 	
-You will see the results in your terminal.
+The results will be displayed on your terminal.
 
 <img width="513" alt="Screenshot 2023-06-02 at 12 20 32" src="https://github.com/vickneee/node.js/assets/93821265/e659417d-ae4e-44e5-9b25-49d12b1acfb0">
 
