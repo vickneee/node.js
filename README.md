@@ -9,7 +9,7 @@ After the installation, you can verify in the terminal the installed version:
 
 	node --version
 	
-With the installation of Node.js, Npm is included. You can check to see if npm was properly installed:
+With the installation of node.js, npm is included. You can check to see if npm was properly installed:
 
 	npm --version
 	
