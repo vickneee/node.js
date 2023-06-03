@@ -3,7 +3,7 @@ function CreateTable(r) {
 	const style =
 		`<style>
 body {display: flex; justify-content: center; align-items: center; height: 100vh; background: #fafafa}
-#table {border-collapse: collapse; width: 400px;}
+#table {border-collapse: collapse; width: 400px; font-size: 1.1rem;}
 .th, .td {text-align: left; padding: 8px; border: 1px solid #333333;}
 .tr:nth-child(even) {background-color: #d4f2f6;}
 </style>`;

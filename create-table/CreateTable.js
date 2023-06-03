@@ -10,7 +10,7 @@ const r = [
 
 const html = mf.CreateTable(r);
 
-fs.writeFile('Table.html', html, (err) => {
+fs.writeFile('index.html', html, (err) => {
     if (err) {
         console.error('Error writing HTML file:', err);
     } else {
