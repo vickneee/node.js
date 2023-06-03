@@ -15,7 +15,7 @@ With the installation of node.js, npm is included. You can check to see if npm w
 	
 ## hello-node
 
-In the project directory, you can initialize Node.js app and accept all default values:
+In the project directory, you can initialize node.js app and accept all default values:
 
 	npm init
 
