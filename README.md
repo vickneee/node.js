@@ -41,7 +41,7 @@ In the project directory, you can run:
 
 	node CreateTable.js
 
-After that, you can open the Table.html file in your browser.
+After that, you can open the index.html file in your browser.
 
 <img width="1328" alt="Screenshot 2023-06-03 at 13 06 44" src="https://github.com/vickneee/node.js/assets/93821265/4c0dab2e-9717-43f5-a0bf-0683be7d7dff">
 
