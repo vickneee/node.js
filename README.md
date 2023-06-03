@@ -43,7 +43,7 @@ In the project directory, you can run:
 
 After that, you can open the Table.html file in your browser.
 
-<img width="1328" alt="Screenshot 2023-06-02 at 19 45 35" src="https://github.com/vickneee/node.js/assets/93821265/43d08d68-60d6-4966-af7a-5ee10a2d7a04">
+<img width="1328" alt="Screenshot 2023-06-03 at 13 06 44" src="https://github.com/vickneee/node.js/assets/93821265/4c0dab2e-9717-43f5-a0bf-0683be7d7dff">
 
 ## server-with-routing-mysql
 
